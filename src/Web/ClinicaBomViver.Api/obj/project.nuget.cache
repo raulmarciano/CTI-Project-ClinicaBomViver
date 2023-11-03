@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MimHGXxHtHeoGpLEK8n/Va1qr3aQExd99kVw6+E2pC223ZSpeUd6e0+Pp7jebpiaCqZQFr8H+njn+DI3h2rn/Q==",
+  "success": true,
+  "projectFilePath": "C:\\develop\\personal\\CTI-Project-ClinicaBomViver\\src\\Web\\ClinicaBomViver.Api\\ClinicaBomViver.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raul_\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\raul_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
